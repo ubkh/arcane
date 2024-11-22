@@ -1,2 +1,2 @@
 # arcane
-Arcane is a fully-featured machine learning library built from the ground up.
+Arcane is a machine learning toolchain for advanced trend analysis for virality of memes.
